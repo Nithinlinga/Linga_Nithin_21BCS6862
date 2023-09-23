@@ -1,0 +1,38 @@
+.form-check{
+  float: right;
+}
+.text1-black{
+  color: white;
+}.text1-light{
+  color: black;
+}
+nav{
+  padding: 10px;
+  box-shadow: 0 8px 6px -6px blue;
+  height: 30px;
+  border-radius: 6px;
+}
+.light{
+  background-color: white;
+  color: black;
+}
+.dark{
+  background-color: black;
+  color: white;
+}
+
+
+.Link-dark{
+  margin: 10px;
+  text-decoration: none;
+  margin-right: 20px;
+  color: white;
+}
+
+.Link-light{
+  margin: 10px;
+  text-decoration: none;
+  margin-right: 20px;
+  color: black;
+}
+

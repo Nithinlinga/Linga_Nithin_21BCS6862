@@ -1,0 +1,28 @@
+.maindiv{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    float: left;
+    margin-right: 50px;
+    /* margin-top: 50px; */
+    margin-bottom: 50px;
+    border-style: solid ;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.parent{
+    padding-left: 40px;
+    background-color: wheat;
+
+}
+.btn{
+    background-color: red;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
